@@ -1,6 +1,14 @@
 # 💫 About Me:
-🚀 IT & AI Engineering student in Syria, building applied AI systems beyond notebooks — from RAG pipelines and quantized VLMs to deployed ML applications.<br><br>💡 Co-founder of Revica, building web and AI products for businesses in Syria and the Gulf.<br><br>🏆 Two-time national finalist in the Syria Collegiate Programming Contest (SCPC).<br><br>🛠️ Full-stack background (MERN) with growing depth in ML/AI — from training a GPT-style language model from scratch to shipping FastAPI + React AI applications.<br><br>🌍 Focused on building technology that creates real value — especially for Syria — rather than building for the sake of hype.<br>
-
+🚀 AI Engineering student in Syria, building applied AI systems that go beyond notebooks — RAG pipelines, multi-agent systems, and quantized VLMs.
+<br/>
+💡 Co-founder of Revica, an AI agency building web & AI products.
+<br/>
+🏆 Two-time national finalist, Syria Collegiate Programming Contest (SCPC).
+<br/>
+🛠️ Comfortable across the full stack (MERN) with growing depth in ML/AI — from training a GPT-style model from scratch to shipping deployed FastAPI + React ML apps.
+<br/>
+🌍 Focused on building technology that creates real value for Syria, not just chasing funding rounds.
+<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-wassef-dabbas/) 
